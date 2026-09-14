@@ -8,5 +8,6 @@ public class Account
     public void Deposit(int amount)
     {
         System.Console.WriteLine("Nisse was here!");
+        System.Console.WriteLine("Nisse did a bad choice!");
     }
 }
